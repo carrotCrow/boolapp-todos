@@ -1,35 +1,9 @@
-# React&Tailwind Parcel Bundler
+# Boolapp-todos
 
-quick dev environment for simple webpage with reactjs + tailwind css with parcel-bundler.
+simple todos app with react&tailwindcss
 
-* List of Depedencies
-    * react
-    * react-dom
-    * parcel-bundler
-    * tailwindcss
-    * postcss-cli
-    * autoprefixer
-
-## Setting up
-
-* clone this repository 
-```
-
-git clone https://github.com/carrotCrow/reactailwind-parcelbundler.git
-
-```
-* run parcel bundler 
+## clone this repo
 
 ``` 
-
-npm run dev
-
-```
-
-* run postcss-cli #editing custom/plugin for tailwindcss
-
+git clone https://github.com/carrotCrow/boolapp-todos.git
 ``` 
-
-npm run build:css
-
-```
