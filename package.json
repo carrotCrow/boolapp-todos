@@ -1,7 +1,7 @@
 {
-  "name": "webserver",
+  "name": "boolapp-todos",
   "version": "1.0.0",
-  "description": "",
+  "description": "quick dev environment for simple webpage with reactjs + tailwind css with parcel-bundler.",
   "main": "index.js",
   "dependencies": {
     "autoprefixer": "^9.7.6",
@@ -17,5 +17,13 @@
     "build:css": "npx tailwindcss build ./styles/tailwind.css -o ./dist/styles.css"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carrotCrow/boolapp-todos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/carrotCrow/boolapp-todos/issues"
+  },
+  "homepage": "https://github.com/carrotCrow/boolapp-todos#readme"
 }
